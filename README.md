@@ -25,7 +25,7 @@ I want YOUR SUPPORT to make this REPOSITORY available to every single person who
 ## Module 1: Non-Negotiables of Data Engineering
 
 - **Python Programming Language**
-  - [Python For Data Engineering](https://youtu.be/ZvU7lupoXQE?si=m1k9jUv_Mjr3GfyJ)
+  - [Python For Data Engineering](https://youtu.be/ZvU7lupoXQE?si=m1k9jUv_Mjr3GfyJ)(Em Andamento)
 
 - **SQL - Structured Query Language**
   - [SQL Full Course For Data Engineers](https://youtu.be/YimMzb0mHkI?si=sfoOh5O9m5lH_OEI)
